@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kaden-Bissonnette
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning basic programming, and looking at bug bounties
+- 💞️ I’m looking to collaborate on anything. Always up for a challenge
+- ⚡ Fun facts: Currently studying CS, minoring in cybersecurity.
